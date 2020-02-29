@@ -1,0 +1,23 @@
+
+body {
+  background-color:  #FFF9D9;
+}
+hr {
+  background-color: #FFF9D9;
+  border-style: none none dotted none;
+  border-color: grey;
+  border-width: 5px;
+  width: 6%;
+
+}
+img{
+  height:auto;
+}
+h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+h3{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: red;
+}
